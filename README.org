@@ -4,7 +4,7 @@ Roger Peppe's Common Lisp XML Stream PAttern Matcher
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/rogpeppe/cl-xmlspam |
-| commit  | 0000000                                    |
+| commit  | ea06abc                                    |
 | systems | cl-xmlspam                                 |
 |---------+--------------------------------------------|
   
