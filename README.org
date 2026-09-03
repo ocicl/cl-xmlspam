@@ -2,9 +2,9 @@
 
 Roger Peppe's Common Lisp XML Stream PAttern Matcher
 
-|---------+------------------------------------------------------|
-| source  | git:https://github.com/defunkydrummer/cl-xmlspam.git |
-| commit  | 421ee97                                              |
-| systems | cl-xmlspam                                           |
-|---------+------------------------------------------------------|
+|---------+--------------------------------------------|
+| source  | git:https://github.com/rogpeppe/cl-xmlspam |
+| commit  | 0000000                                    |
+| systems | cl-xmlspam                                 |
+|---------+--------------------------------------------|
   
